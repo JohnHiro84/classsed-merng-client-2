@@ -1,3 +1,10 @@
+# classsed-merng-client-2
+
+This is all someone else's code from a youtube tutorial:
+
+React GraphQL App (MERNG): #11 Deployment to Heroku & Netlify
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
